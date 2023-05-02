@@ -1,8 +1,23 @@
-# Cantina escolar 
-![descrição da imagem](https://www.colegiobezerra.com.br/wp-content/uploads/2015/11/mini-20160129_153542.jpg)
+# Cantina Legal
+* **Alunos:** Edwin, Henrique, Renato, Sandra, e Uilton.
+![Capa](https://upload.wikimedia.org/wikipedia/commons/c/c7/School_lunch.jpg)
 
-# Descriçâo do projeto.
-* vai controlar o estoque e gerenciar. e vai sinalizar quando o produto esta com estoque zerado e qundo estiver com a validade proxima do vencimento.
+## Problema
+* Segundo o artigo 3º da Lei Nº 11.947, de 16 de junho de 2009, "a alimentação escolar é direito dos alunos da educação básica pública e dever do Estado e será promovida e incentivada com vistas no atendimento das diretrizes estabelecidas nesta Lei". A mesma lei diz que ela deve corresponder às espectativas higiênicas e culturais daquela localidade.
+* Há um enorme empenho por parte do Colégio Estadual Goés Calmon em proporcionar uma boa alimentação aos seus alunos, fazendo com que assim, estejam energizados para desempenharem as atividades escolares. Com essa premissa, o colégio oferece um cardápio diversificado, com uma diversidade de nutrientes necessários para o desenvolvimento nutricional dos matriculados.
+* Entretanto, o colégio não fornece de forma ininterrupta um guia com o cardápio semanal, fazendo com que os alunos não saibam com antecedência o prato que será servido, e seu respectivo teor nutricional. O projeto "Cantina Legal" propõe, através de um aplicativo aliado a um banco de dados, fazer um controle do que é posto no prato dos alunos.
+
+
+
+## Descrição do projeto
+O aplicativo "Cantina Legal" possui dois propósitos. O primeiro, é o controle interno dos nutrientes necessários para a produção das merendas, classificando-os por:
+
+:apple: **Nome:** Nome do alimento<br>
+:broccoli:	**Tipos:** A classificação do alimento. Fruta, vegetal, alimentos de origem animal, massa, grão<br>
+:rice: **Quantidade:**<br>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-red-apple-fruit-emoj-symbol-food-30677.png" alt="*" title="Apple" height="22px"/> **Medida:** Demonstrar em qual grandeza, o produto está sendo quantificado. Seda em quilos, unidades, litros, etc...<br>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-red-apple-fruit-emoj-symbol-food-30677.png" alt="*" title="Apple" height="22px"/> **Data da compra:** Quando o alimento foi comprado.<br>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-red-apple-fruit-emoj-symbol-food-30677.png" alt="*" title="Apple" height="22px"/> **Data da validade:** Prazo estipulado que o alimento pode perecer.
 
 # Usabilidade da soluçao.
 Equipe: Edwin, Henrique, Sandra , Renato e Uilton.
@@ -39,3 +54,5 @@ Funcionários:
 * prazos de validades
 
 * Produtos (quantidades)
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
