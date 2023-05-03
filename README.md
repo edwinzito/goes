@@ -10,19 +10,27 @@
 
 
 ## Descrição do projeto
-O aplicativo "Cantina Legal" possui dois propósitos. O primeiro, é o controle interno dos nutrientes necessários para a produção das merendas, classificando-os por:<br>
+O aplicativo "Cantina Legal" possui dois propósitos. O **primeiro**, é o controle interno dos nutrientes necessários para a produção das merendas, classificando-os por:<br>
 :apple: **Nome:** Nome do alimento<br>
 :broccoli:	**Tipos:** A classificação do alimento. Fruta, vegetal, alimentos de origem animal, massa, grão<br>
-:onion: **Quantidade:**<br>
+:onion: **Quantidade:** Quanto se tem do produto.<br>
 :pear: **Medida:** Demonstrar em qual grandeza, o produto está sendo quantificado. Seda em quilos, unidades, litros, etc...<br>
+:salt: **Perecível:** Dado *booleano* (Sim ou não). Indica se o produto perde facilmente a sua qualidade durante o tempo.<br>
 :carrot:	**Data da compra:** Quando o alimento foi comprado.<br>
 :egg: **Data da validade:** Prazo estipulado que o alimento pode perecer.
 
-O segundo é a disponibilização do cardápio antecipado do dia, para que o aluno fique ciente do teor nutritivo, e saiba antecipadamente se pode ou gosta de determinado alimento:<br>
+O **segundo** é a disponibilização do cardápio antecipado do semana, para que o aluno fique ciente do teor nutritivo, e saiba antecipadamente se pode ou gosta de determinado alimento:<br>
 :rice: **Nome:** Nome do prato resultante da combinação de alimentos.<br>
 :stew: **Data e hora:** Horário que o prato será servido.<br>
 :poultry_leg: **Ingredientes:** Os ingredientes que comprõem o prato<br>
 
+Com tais informações, o aluno sabe antecipadamente qual lanche será servido naquela semana, cabendo a ele se programar se irá ou não ao comer o lanche do colégio.
+
+## Ferramentas utlizadas
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40px">](https://www.python.org/)  <img src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" height="40px">
+
+## Acesso ao projeto
+O aplicativo será disponibilizado na [**Play Store** <img src="https://logospng.org/download/play-store/logo-play-store-256.png" height="15px">](https://play.google.com/).
 
 # Usabilidade da soluçao.
 Equipe: Edwin, Henrique, Sandra , Renato e Uilton.
