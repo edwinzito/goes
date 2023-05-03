@@ -11,13 +11,18 @@
 
 ## Descrição do projeto
 O aplicativo "Cantina Legal" possui dois propósitos. O primeiro, é o controle interno dos nutrientes necessários para a produção das merendas, classificando-os por:
-
 :apple: **Nome:** Nome do alimento<br>
 :broccoli:	**Tipos:** A classificação do alimento. Fruta, vegetal, alimentos de origem animal, massa, grão<br>
 :rice: **Quantidade:**<br>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-red-apple-fruit-emoj-symbol-food-30677.png" alt="*" title="Apple" height="22px"/> **Medida:** Demonstrar em qual grandeza, o produto está sendo quantificado. Seda em quilos, unidades, litros, etc...<br>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-red-apple-fruit-emoj-symbol-food-30677.png" alt="*" title="Apple" height="22px"/> **Data da compra:** Quando o alimento foi comprado.<br>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-red-apple-fruit-emoj-symbol-food-30677.png" alt="*" title="Apple" height="22px"/> **Data da validade:** Prazo estipulado que o alimento pode perecer.
+:pear: **Medida:** Demonstrar em qual grandeza, o produto está sendo quantificado. Seda em quilos, unidades, litros, etc...<br>
+:carrot:	**Data da compra:** Quando o alimento foi comprado.<br>
+:stew: **Data da validade:** Prazo estipulado que o alimento pode perecer.
+
+O segundo é a disponibilização do cardápio antecipado do dia, para que o aluno fique ciente do teor nutritivo, e saiba antecipadamente se pode ou gosta de determinado alimento:
+:apple: **Nome:** Nome do prato resultante da combinação de alimentos.<br>
+:broccoli:	**Data e hora:** Horário que o prato será servido.<br>
+:rice: **Ingredientes:** Os ingredientes que comprõem o prato<br>
+
 
 # Usabilidade da soluçao.
 Equipe: Edwin, Henrique, Sandra , Renato e Uilton.
